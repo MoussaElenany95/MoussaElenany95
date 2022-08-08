@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/MoussaElenany95/MoussaElenany95/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/MoussaElenany95/MoussaElenany95/blob" alt="Snake animation" />
 
 ###
