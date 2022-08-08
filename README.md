@@ -39,6 +39,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/MoussaElenany95/MoussaElenany95/blob" alt="Snake animation" />
-
 ###
